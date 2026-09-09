@@ -6,9 +6,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A robust End-to-End (E2E) test automation project demonstrating modern testing practices using **Playwright** with JavaScript against a React Application.",
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.63.0",
     "@types/node": "^25.0.2"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik9905/MiniProject_Playwright.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pratik9905/MiniProject_Playwright/issues"
+  },
+  "homepage": "https://github.com/pratik9905/MiniProject_Playwright#readme"
 }
