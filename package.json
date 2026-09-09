@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pratik9905/MiniProject_Playwright.git"
+    "url": "git+https://github.com/smaywws/MiniProject_Playwright.git"
   },
   "bugs": {
-    "url": "https://github.com/pratik9905/MiniProject_Playwright/issues"
+    "url": "https://github.com/smaywws/MiniProject_Playwright/issues"
   },
-  "homepage": "https://github.com/pratik9905/MiniProject_Playwright#readme"
+  "homepage": "https://github.com/smaywws/MiniProject_Playwright#readme"
 }
